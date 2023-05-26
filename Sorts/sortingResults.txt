@@ -1,0 +1,60 @@
+The time it takes to sort 50 elements using insertion sort is: 0.4407
+
+The time it takes to sort 50 elements using bubble sort is: 0.0926
+
+The time it takes to sort 50 elements using selection sort is: 0.0915
+
+The time it takes to sort 50 elements using merge sort is: 0.102101
+
+The time it takes to sort 50 elements using quick sort is: 0.094099
+
+The time it takes to sort 50 elements using heap sort is: 0.1987
+
+The time it takes to sort 200 elements using insertion sort is: 1.991299
+
+The time it takes to sort 200 elements using bubble sort is: 1.1083
+
+The time it takes to sort 200 elements using selection sort is: 1.5859
+
+The time it takes to sort 200 elements using merge sort is: 0.714901
+
+The time it takes to sort 200 elements using quick sort is: 0.453001
+
+The time it takes to sort 200 elements using heap sort is: 0.417
+
+The time it takes to sort 800 elements using insertion sort is: 6.2302
+
+The time it takes to sort 800 elements using bubble sort is: 2.5855
+
+The time it takes to sort 800 elements using selection sort is: 1.6967
+
+The time it takes to sort 800 elements using merge sort is: 1.873799
+
+The time it takes to sort 800 elements using quick sort is: 1.8233
+
+The time it takes to sort 800 elements using heap sort is: 1.8023
+
+The time it takes to sort 3200 elements using insertion sort is: 24.3671
+
+The time it takes to sort 3200 elements using bubble sort is: 24.0118
+
+The time it takes to sort 3200 elements using selection sort is: 25.4184
+
+The time it takes to sort 3200 elements using merge sort is: 28.5705
+
+The time it takes to sort 3200 elements using quick sort is: 24.931401
+
+The time it takes to sort 3200 elements using heap sort is: 16.874401
+
+The time it takes to sort 12800 elements using insertion sort is: 350.7187
+
+The time it takes to sort 12800 elements using bubble sort is: 377.037601
+
+The time it takes to sort 12800 elements using selection sort is: 328.945
+
+The time it takes to sort 12800 elements using merge sort is: 262.4369
+
+The time it takes to sort 12800 elements using quick sort is: 261.2065
+
+The time it takes to sort 12800 elements using heap sort is: 257.5334
+
